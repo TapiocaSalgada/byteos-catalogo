@@ -1,5 +1,27 @@
 {
   "schemaVersion": 1,
   "name": "Catálogo byteOS",
-  "entries": []
+  "entries": [
+    {
+      "id": "sonic-unleashed-recompiled",
+      "name": "Sonic Unleashed Recompiled",
+      "description": "Port não oficial de Sonic Unleashed para Android, mantido por SansNope e colaboradores. Esta entrada baixa somente o instalador oficial do projeto. Depois de instalar, abra o aplicativo e use Arquivos do jogo → Instalar jogo / DLC (.zip / pasta), ou a opção de ISO / atualização / DLC. Os arquivos da sua própria cópia de Xbox 360 são necessários e não acompanham o APK. ARM64, Android 10 ou superior; a compatibilidade gráfica varia por aparelho. O projeto ainda é experimental.",
+      "developer": "SansNope e colaboradores / Unleashed Recompiled",
+      "version": "0.6.1",
+      "category": "RECOMP",
+      "license": "GPL-3.0 (port); jogo original não incluído",
+      "sourceUrl": "https://github.com/SansNope/UnleashedRecomp-Android/releases/tag/v0.6.1",
+      "runtimeId": "external-android",
+      "architecture": "arm64-v8a",
+      "minAndroid": 29,
+      "files": [],
+      "apk": {
+        "name": "UnleashedRecomp_0.6.1.apk",
+        "url": "https://github.com/SansNope/UnleashedRecomp-Android/releases/download/v0.6.1/UnleashedRecomp_0.6.1.apk",
+        "sha256": "05717f167db907ca0d0f8e45112613c7e24ef0737ecdc5e192a430a047f74c34",
+        "size": 70169911
+      },
+      "androidPackage": "com.sega.sonicunr"
+    }
+  ]
 }

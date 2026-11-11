@@ -38,7 +38,17 @@
       },
       "minAndroid": 29,
       "description": "Aventura de dia e de noite. Recompilação para Android com controles por toque ou gamepad.",
-      "architecture": "arm64-v8a"
+      "architecture": "arm64-v8a",
+      "video": {
+        "title": "Sonic Unleashed · trailer de lançamento",
+        "url": "https://www.youtube.com/watch?v=lgXxz4C-Kuo",
+        "poster": {
+          "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10.jpg",
+          "name": "sonic-unleashed-banner.jpg",
+          "size": 233721,
+          "sha256": "18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10"
+        }
+      }
     },
     {
       "id": "lego-marvel-super-heroes-integrado",
@@ -81,6 +91,16 @@
       "runtimeRelease": {
         "payload": "{\"version\":\"0.3.4\",\"archive\":{\"name\":\"LegoMarvel-0.3.4.apk\",\"url\":\"https://github.com/ttom795/LMS_Android/releases/download/0.3.4/LegoMarvel-0.3.4.apk\",\"sha256\":\"ded220813bc400765a7fd8ac8c941c64acdc33e03aea1fe07abeb27eafc5aad8\",\"size\":49690390},\"components\":[{\"name\":\"libc++_shared.so\",\"size\":1374336,\"sha256\":\"c4c2fe5cbcb1fba0003a31fc7ab29a9bb12df6cc187ec45a806462540e83d93b\"},{\"name\":\"libSDL2.so\",\"size\":1237360,\"sha256\":\"0a374c72612cc97b1dcc906b15d67121f0d144d55e00607d94d28e5802e7b838\"},{\"name\":\"libdxvk_d3d9.so\",\"size\":2057720,\"sha256\":\"bac1453e8de837b5a5d0e36232ddfc6346902488fba93047081aafd39305eccb\"},{\"name\":\"libmain.so\",\"size\":130090032,\"sha256\":\"4f70ad0662a7b3139a761d9de851e230de8f34917dd176cc85ba07fe16ae88f0\"}],\"bridge\":1}",
         "signature": "NB923659l1jQLOT1CpTUwsVCyqZtcYRDqWoaJGSEh4BYd1r7aLG9w/113MiW64ihVpaM5nq0DfxqZNiuCdKEYsN//NKga3b9N6AcX6t2zogwVpX42iuUHk3uIquiT4XrcYKMUGdL1glH7NoBVc9OiMkuxVIQmHBgN1E3Caavc9ytBal3sPrEc7Rcsf4HOqKMyegeErh5/01IeHDNlzXUmzKo5nXOHL8t8KEtPFiniEpgeyAuE3ddaOBvCSEQ4wU17abAUx9L8pA7b+r3WcMwX2oxQdQgbGfHacHtzbjsNv/BAfSBJnvnu1UtxE+zlrk7zm+TU18wspj+1p8xNswjYte1TBgG8j5oDNhPIszioDXbWEwg7oXa1UT2ANCdBgRPXjy+1u3uMPzW0D6yYUBokVkPc0es8Yd17GG4VnRG1mkJIZIpnEBXMkf8Scr9eXz2T1uca2zlKrpMXrTUbqpRwhjefK+VeEOI5Knf5QrQVQIPbuiISP7QbN7qR7WnpE98"
+      },
+      "video": {
+        "title": "LEGO Marvel Super Heroes · trailer de lançamento",
+        "url": "https://www.youtube.com/watch?v=ydXUZbrg1nc",
+        "poster": {
+          "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee.jpg",
+          "name": "lego-marvel-banner.jpg",
+          "size": 418676,
+          "sha256": "ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee"
+        }
       }
     },
     {
@@ -193,3 +213,4 @@
   ],
   "schemaVersion": 1
 }
+

@@ -279,6 +279,68 @@
           "size": 504931
         }
       ]
+    },
+    {
+      "id": "mario-kart-64-native",
+      "name": "Mario Kart 64",
+      "description": "Mario Kart 64 com o motor nativo SpaghettiKart. O byteOS baixa o motor e os dados, converte o formato do cartucho e prepara os recursos automaticamente. Instalação e saves permanecem dentro do byteOS. Integração experimental: requer byteOS 1.12.8 ou posterior. Execução em aparelho ARM64 ainda não validada nesta integração.",
+      "developer": "Nintendo · port SpaghettiKart / izzy2lost",
+      "version": "2.0.0",
+      "category": "PORT",
+      "license": "Port de código aberto; licenças e créditos dos componentes mantidos no projeto de origem. Mario Kart e os dados originais pertencem à Nintendo.",
+      "sourceUrl": "https://github.com/izzy2lost/SpaghettiKart",
+      "runtimeId": "spaghetti-kart-android",
+      "architecture": "arm64-v8a",
+      "minAndroid": 26,
+      "files": [
+        {
+          "name": "mario-kart-64.bin",
+          "url": "https://raw.githubusercontent.com/JacksonUptain/RecalBox-Download-ROM-Pre-Loaded/main/Mario%20Kart%2064%20%28USA%29/Mario%20Kart%2064%20%28USA%29.n64",
+          "size": 12582912,
+          "sha256": "a8588ffdfb628c0433a2a18664cf68942812b975d16ae4d8b1c66f2045920065"
+        }
+      ],
+      "cover": {
+        "name": "mk64-cover.png",
+        "url": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Mario%20Kart%2064%20%28USA%29.png",
+        "sha256": "c6de99137340869eaa86200ab8209b161c2daad6a7bdd0241d585a3603df22ce",
+        "size": 313299
+      },
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/vi-Sd6Cp1EI"
+      }
+    },
+    {
+      "id": "super-mario-64-native",
+      "name": "Super Mario 64",
+      "description": "Super Mario 64 com o motor nativo Ghostship. O byteOS baixa o motor e os dados, converte o formato do cartucho e prepara os recursos. Preserva os controles originais do port e seu editor. Instalação e saves permanecem dentro do byteOS. Integração experimental: requer byteOS 1.12.8 ou posterior; execução ARM64 ainda não validada nesta integração.",
+      "developer": "Nintendo · Harbour Masters / Ghostship",
+      "version": "3.0.0",
+      "category": "PORT",
+      "license": "Motor de código aberto, com licenças e créditos mantidos no projeto de origem. Super Mario e os dados do jogo pertencem à Nintendo.",
+      "sourceUrl": "https://github.com/HarbourMasters/Ghostship",
+      "runtimeId": "ghostship-android",
+      "architecture": "arm64-v8a",
+      "minAndroid": 26,
+      "files": [
+        {
+          "name": "super-mario-64.bin",
+          "url": "https://raw.githubusercontent.com/JacksonUptain/RecalBox-Download-ROM-Pre-Loaded/main/Super%20Mario%2064%20%28USA%29/Super%20Mario%2064%20%28USA%29.n64",
+          "size": 8388608,
+          "sha256": "f3b0fc9f565f995368b6fa5aefc8ec1e5194c488948b41f3534dece4abcec2b4"
+        }
+      ],
+      "cover": {
+        "name": "sm64-cover.png",
+        "url": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Super%20Mario%2064%20%28USA%29.png",
+        "sha256": "ec5ba1a5967bf2b5276ac164e5ce2970cee6c5bec4eb3013396faf2a6aa1ec2c",
+        "size": 276622
+      },
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/UaY9QZrPvBc"
+      }
     }
   ],
   "schemaVersion": 1

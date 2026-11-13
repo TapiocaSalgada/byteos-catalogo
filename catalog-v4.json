@@ -4,12 +4,6 @@
     {
       "id": "sonic-unleashed-recompiled-integrado",
       "name": "Sonic Unleashed Recompiled",
-      "cover": {
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/6a69bdc0d5142265d72208990d8d3062b0360bb62f49b36bd8d124d20377f1d8.png",
-        "name": "sonic-unleashed.png",
-        "size": 577841,
-        "sha256": "6a69bdc0d5142265d72208990d8d3062b0360bb62f49b36bd8d124d20377f1d8"
-      },
       "files": [
         {
           "url": "https://archive.org/download/sonic-unleashed-recompiled_202603/Sonic%20Unleashed%20Recompiled.7z",
@@ -18,41 +12,41 @@
           "sha256": ""
         }
       ],
-      "banner": {
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10.jpg",
-        "name": "sonic-unleashed-banner.jpg",
-        "size": 233721,
-        "sha256": "18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10"
-      },
       "license": "GPL-3.0 (port); jogo original não incluído",
       "version": "0.6.1",
       "category": "RECOMP",
       "developer": "SansNope e colaboradores / Unleashed Recompiled",
       "runtimeId": "sonic-unleashed-android",
       "sourceUrl": "https://github.com/SansNope/UnleashedRecomp-Android/releases/tag/v0.6.1",
-      "titleLogo": {
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/ac48c7941e2da5e5e0a45e6e85aa9ad370f4801ba7d485098082491e6569c54c.webp",
-        "name": "sonic-unleashed-logo.webp",
-        "size": 34588,
-        "sha256": "ac48c7941e2da5e5e0a45e6e85aa9ad370f4801ba7d485098082491e6569c54c"
-      },
       "minAndroid": 29,
       "description": "Aventura de dia e de noite. Recompilação para Android com controles por toque ou gamepad.",
       "architecture": "arm64-v8a",
       "video": {
         "title": "Assistir trailer",
         "url": "https://youtu.be/lgXxz4C-Kuo"
+      },
+      "titleLogo": {
+        "name": "sonic-unleashed-recompiled-integrado-titleLogo.webp",
+        "size": 34588,
+        "sha256": "ac48c7941e2da5e5e0a45e6e85aa9ad370f4801ba7d485098082491e6569c54c",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/ac48c7941e2da5e5e0a45e6e85aa9ad370f4801ba7d485098082491e6569c54c.webp"
+      },
+      "cover": {
+        "name": "sonic-unleashed-recompiled-integrado-cover.png",
+        "size": 577841,
+        "sha256": "6a69bdc0d5142265d72208990d8d3062b0360bb62f49b36bd8d124d20377f1d8",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/6a69bdc0d5142265d72208990d8d3062b0360bb62f49b36bd8d124d20377f1d8.png"
+      },
+      "banner": {
+        "name": "sonic-unleashed-recompiled-integrado-banner.jpg",
+        "size": 233721,
+        "sha256": "18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10.jpg"
       }
     },
     {
       "id": "lego-marvel-super-heroes-integrado",
       "name": "LEGO Marvel Super Heroes",
-      "cover": {
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/0c56ed9e445b18fdaae4b9c0ea3bda6c9fd58d565074fa74e8ce7878068a6ac9.png",
-        "name": "lego-marvel-icon.png",
-        "size": 69708,
-        "sha256": "0c56ed9e445b18fdaae4b9c0ea3bda6c9fd58d565074fa74e8ce7878068a6ac9"
-      },
       "files": [
         {
           "url": "https://dl.apkvision.net/lego-marvel-super-heroes-pc-port/LEGO-Marvel-Super-Heroes-apkvision.zip",
@@ -61,24 +55,12 @@
           "sha256": "90dee5a13c915e23b5626f43194a82a9067a1f0c078951d5b23d7f2623aa7d9b"
         }
       ],
-      "banner": {
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee.jpg",
-        "name": "lego-marvel-banner.jpg",
-        "size": 418676,
-        "sha256": "ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee"
-      },
       "license": "Port não oficial; jogo e artes pertencem aos respectivos titulares.",
       "version": "1.0.0",
       "category": "PORT",
       "developer": "Traveller's Tales · port ttom795",
       "runtimeId": "lego-marvel-android",
       "sourceUrl": "https://github.com/ttom795/LMS_Android",
-      "titleLogo": {
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/3f9949ae161ffa7b3e55fc4983b13bd8f52d632b3b000db3699ac3e3c8b5bbb1.png",
-        "name": "lego-marvel-logo.png",
-        "size": 83916,
-        "sha256": "3f9949ae161ffa7b3e55fc4983b13bd8f52d632b3b000db3699ac3e3c8b5bbb1"
-      },
       "minAndroid": 28,
       "description": "Reúna os heróis da Marvel em uma aventura LEGO por Manhattan. Port nativo para Android ARM64, com controles por toque ou gamepad. O byteOS prepara o motor e os dados em uma única instalação.",
       "architecture": "arm64-v8a",
@@ -89,6 +71,24 @@
       "video": {
         "title": "Assistir trailer",
         "url": "https://youtu.be/ydXUZbrg1nc"
+      },
+      "titleLogo": {
+        "name": "lego-marvel-super-heroes-integrado-titleLogo.png",
+        "size": 83916,
+        "sha256": "3f9949ae161ffa7b3e55fc4983b13bd8f52d632b3b000db3699ac3e3c8b5bbb1",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/3f9949ae161ffa7b3e55fc4983b13bd8f52d632b3b000db3699ac3e3c8b5bbb1.png"
+      },
+      "cover": {
+        "name": "lego-marvel-super-heroes-integrado-cover.png",
+        "size": 69708,
+        "sha256": "0c56ed9e445b18fdaae4b9c0ea3bda6c9fd58d565074fa74e8ce7878068a6ac9",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/0c56ed9e445b18fdaae4b9c0ea3bda6c9fd58d565074fa74e8ce7878068a6ac9.png"
+      },
+      "banner": {
+        "name": "lego-marvel-super-heroes-integrado-banner.jpg",
+        "size": 418676,
+        "sha256": "ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee.jpg"
       }
     },
     {
@@ -111,24 +111,6 @@
           "size": 345695
         }
       ],
-      "cover": {
-        "name": "smw-cover.jpg",
-        "url": "https://www.nintendo.com/en-gb/games/oms/snes-classic/images/games/super-mario-world/box-art.jpg",
-        "sha256": "23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27",
-        "size": 123708
-      },
-      "banner": {
-        "name": "smw-banner.png",
-        "url": "https://jhdev2006.github.io/assets/images/SMWR-1.png",
-        "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
-        "size": 504931
-      },
-      "titleLogo": {
-        "name": "smw-logo.png",
-        "url": "https://raw.githubusercontent.com/BTFighter/Super-Mario-World-Remastered-Plus/main/Assets/Sprites/UI/Logo.png",
-        "sha256": "aaca1ba96a82e09d2ba67a3bbc367f89e2f90538f85b06c426481cde5288c186",
-        "size": 3868
-      },
       "video": {
         "title": "Assistir trailer",
         "url": "https://youtu.be/RJ1w-venSAE"
@@ -140,7 +122,25 @@
           "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
           "size": 504931
         }
-      ]
+      ],
+      "titleLogo": {
+        "name": "smw-logo.png",
+        "size": 205593,
+        "sha256": "c7208e94710495c780e139f954dd1cabe0d6ee437519584a641fc92905219d89",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-remastered-plus/c7208e94710495c780e139f954dd1cabe0d6ee437519584a641fc92905219d89.png"
+      },
+      "cover": {
+        "name": "super-mario-world-remastered-plus-cover.jpg",
+        "size": 123708,
+        "sha256": "23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-remastered-plus/23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27.jpg"
+      },
+      "banner": {
+        "name": "smw-banner.png",
+        "size": 3419,
+        "sha256": "9b73cf1865e66f62fc7b1845bf595dca25871b8e3032496e37d02667a4eff94e",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-remastered-plus/9b73cf1865e66f62fc7b1845bf595dca25871b8e3032496e37d02667a4eff94e.png"
+      }
     },
     {
       "id": "donkey-kong-country-native",
@@ -162,18 +162,6 @@
           "size": 4194304
         }
       ],
-      "cover": {
-        "name": "dkc-cover.jpg",
-        "url": "https://www.nintendo.com/en-gb/games/oms/snes-classic/images/games/dk-country/box-art.jpg",
-        "sha256": "65b6619dde11bf8d1c0cbfc26dd1fbf3be79122365380780696085d3b190a35d",
-        "size": 182420
-      },
-      "banner": {
-        "name": "dkc-cover.jpg",
-        "url": "https://www.nintendo.com/en-gb/games/oms/snes-classic/images/games/dk-country/box-art.jpg",
-        "sha256": "65b6619dde11bf8d1c0cbfc26dd1fbf3be79122365380780696085d3b190a35d",
-        "size": 182420
-      },
       "video": {
         "title": "Vídeo do jogo original — Nintendo",
         "url": "https://www.youtube.com/watch?v=qnf_XIZiNlQ",
@@ -186,10 +174,22 @@
       },
       "screenshots": [],
       "titleLogo": {
-        "name": "dkc-logo.png",
-        "url": "https://www.mariowiki.com/images/4/41/DKCLogo.png",
+        "name": "donkey-kong-country-native-titleLogo.png",
+        "size": 924051,
         "sha256": "595418dab18c7b497b925eaadfb8387f5ac1e57d51016b8107376bd3c1122f7c",
-        "size": 924051
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/donkey-kong-country-native/595418dab18c7b497b925eaadfb8387f5ac1e57d51016b8107376bd3c1122f7c.png"
+      },
+      "cover": {
+        "name": "donkey-kong-country-native-cover.jpg",
+        "size": 182420,
+        "sha256": "65b6619dde11bf8d1c0cbfc26dd1fbf3be79122365380780696085d3b190a35d",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/donkey-kong-country-native/65b6619dde11bf8d1c0cbfc26dd1fbf3be79122365380780696085d3b190a35d.jpg"
+      },
+      "banner": {
+        "name": "dkc-banner.png",
+        "size": 42279,
+        "sha256": "c142bafe28c0ee7d870ddfa983024ebcc96d80b7e3302a86d6cb42c2079e54ca",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/donkey-kong-country-native/c142bafe28c0ee7d870ddfa983024ebcc96d80b7e3302a86d6cb42c2079e54ca.png"
       }
     },
     {
@@ -212,21 +212,27 @@
           "size": 839362068
         }
       ],
-      "cover": {
-        "name": "scott-pilgrim-ex-cover.jpg",
-        "url": "https://apkvision.org/wp-content/uploads/2026/10/scott_pilgrim_ex-square.jpg",
-        "sha256": "249bd96acc501ea02c9d494bc1dde7c127697061fe0bc6d1e5e819e4d58d97d7",
-        "size": 115439
-      },
-      "banner": {
-        "name": "scott-pilgrim-ex-banner.jpg",
-        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2640950/library_hero.jpg",
-        "sha256": "860c33852240f5d5b8e91900287dc3a06523c85713d2bfbe65f9f793b6c2a457",
-        "size": 450442
-      },
       "video": {
         "title": "Assistir trailer",
         "url": "https://youtu.be/H8MOiJ74g2o"
+      },
+      "titleLogo": {
+        "name": "scott-logo.png",
+        "size": 117487,
+        "sha256": "e3de3192eca3c31778b542da82b6c1c30598446497eb11e3b4f2fdc8791de6a3",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/scott-pilgrim-ex/e3de3192eca3c31778b542da82b6c1c30598446497eb11e3b4f2fdc8791de6a3.png"
+      },
+      "cover": {
+        "name": "scott-cover.jpg",
+        "size": 96484,
+        "sha256": "0b01fa4dd8b83f0c72e45ed4308604608df2d9ac4ce4798d12daa96328ea6121",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/scott-pilgrim-ex/0b01fa4dd8b83f0c72e45ed4308604608df2d9ac4ce4798d12daa96328ea6121.jpg"
+      },
+      "banner": {
+        "name": "scott-banner.jpg",
+        "size": 336335,
+        "sha256": "7ed7d577b21e6a1e6a6be3d41427bcb997e9a494aa1d6a479d60c32012482bd4",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/scott-pilgrim-ex/7ed7d577b21e6a1e6a6be3d41427bcb997e9a494aa1d6a479d60c32012482bd4.jpg"
       }
     },
     {
@@ -249,24 +255,6 @@
           "size": 345695
         }
       ],
-      "cover": {
-        "name": "smw-cover.jpg",
-        "url": "https://www.nintendo.com/en-gb/games/oms/snes-classic/images/games/super-mario-world/box-art.jpg",
-        "sha256": "23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27",
-        "size": 123708
-      },
-      "banner": {
-        "name": "smw-banner.png",
-        "url": "https://jhdev2006.github.io/assets/images/SMWR-1.png",
-        "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
-        "size": 504931
-      },
-      "titleLogo": {
-        "name": "smw-logo.png",
-        "url": "https://raw.githubusercontent.com/BTFighter/Super-Mario-World-Remastered-Plus/main/Assets/Sprites/UI/Logo.png",
-        "sha256": "aaca1ba96a82e09d2ba67a3bbc367f89e2f90538f85b06c426481cde5288c186",
-        "size": 3868
-      },
       "video": {
         "title": "Assistir trailer",
         "url": "https://youtu.be/RJ1w-venSAE"
@@ -278,7 +266,25 @@
           "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
           "size": 504931
         }
-      ]
+      ],
+      "titleLogo": {
+        "name": "smw-logo.png",
+        "size": 205593,
+        "sha256": "c7208e94710495c780e139f954dd1cabe0d6ee437519584a641fc92905219d89",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-original/c7208e94710495c780e139f954dd1cabe0d6ee437519584a641fc92905219d89.png"
+      },
+      "cover": {
+        "name": "super-mario-world-original-cover.jpg",
+        "size": 123708,
+        "sha256": "23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-original/23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27.jpg"
+      },
+      "banner": {
+        "name": "smw-banner.png",
+        "size": 3419,
+        "sha256": "9b73cf1865e66f62fc7b1845bf595dca25871b8e3032496e37d02667a4eff94e",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-original/9b73cf1865e66f62fc7b1845bf595dca25871b8e3032496e37d02667a4eff94e.png"
+      }
     },
     {
       "id": "mario-kart-64-native",
@@ -300,15 +306,27 @@
           "sha256": "a8588ffdfb628c0433a2a18664cf68942812b975d16ae4d8b1c66f2045920065"
         }
       ],
-      "cover": {
-        "name": "mk64-cover.png",
-        "url": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Mario%20Kart%2064%20%28USA%29.png",
-        "sha256": "c6de99137340869eaa86200ab8209b161c2daad6a7bdd0241d585a3603df22ce",
-        "size": 313299
-      },
       "video": {
         "title": "Assistir trailer",
         "url": "https://youtu.be/vi-Sd6Cp1EI"
+      },
+      "titleLogo": {
+        "name": "mk64-logo.jpg",
+        "size": 21506,
+        "sha256": "b3dae174c6b28a7ee376fcaafa891e8e893459c72dcb5a1c31f95c3cc6825515",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/b3dae174c6b28a7ee376fcaafa891e8e893459c72dcb5a1c31f95c3cc6825515.jpg"
+      },
+      "cover": {
+        "name": "mario-kart-64-native-cover.png",
+        "size": 313299,
+        "sha256": "c6de99137340869eaa86200ab8209b161c2daad6a7bdd0241d585a3603df22ce",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/c6de99137340869eaa86200ab8209b161c2daad6a7bdd0241d585a3603df22ce.png"
+      },
+      "banner": {
+        "name": "mk64-banner.png",
+        "size": 49541,
+        "sha256": "66f9d383b98f92c06b9963a081b23f7efd6d977c4aff17dad295ee04711eba35",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/66f9d383b98f92c06b9963a081b23f7efd6d977c4aff17dad295ee04711eba35.png"
       }
     },
     {
@@ -331,15 +349,27 @@
           "sha256": "f3b0fc9f565f995368b6fa5aefc8ec1e5194c488948b41f3534dece4abcec2b4"
         }
       ],
-      "cover": {
-        "name": "sm64-cover.png",
-        "url": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Super%20Mario%2064%20%28USA%29.png",
-        "sha256": "ec5ba1a5967bf2b5276ac164e5ce2970cee6c5bec4eb3013396faf2a6aa1ec2c",
-        "size": 276622
-      },
       "video": {
         "title": "Assistir trailer",
         "url": "https://youtu.be/UaY9QZrPvBc"
+      },
+      "titleLogo": {
+        "name": "sm64-logo.png",
+        "size": 920254,
+        "sha256": "7a28bc1bcb7cc1aa40c3ca40bc5c29c7bbc72a632abaddbf642cbb5a925ba4cb",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-64-native/7a28bc1bcb7cc1aa40c3ca40bc5c29c7bbc72a632abaddbf642cbb5a925ba4cb.png"
+      },
+      "cover": {
+        "name": "super-mario-64-native-cover.png",
+        "size": 276622,
+        "sha256": "ec5ba1a5967bf2b5276ac164e5ce2970cee6c5bec4eb3013396faf2a6aa1ec2c",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-64-native/ec5ba1a5967bf2b5276ac164e5ce2970cee6c5bec4eb3013396faf2a6aa1ec2c.png"
+      },
+      "banner": {
+        "name": "sm64-banner.png",
+        "size": 214935,
+        "sha256": "2fcde800ac8d3d1165415b2425015138b52977644ff4bbe936c03ca2047e1794",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-64-native/2fcde800ac8d3d1165415b2425015138b52977644ff4bbe936c03ca2047e1794.png"
       }
     }
   ],

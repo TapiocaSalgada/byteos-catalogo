@@ -1,27 +1,285 @@
 {
-  "schemaVersion": 1,
-  "name": "Catálogo byteOS",
+  "name": "byteOS",
   "entries": [
     {
-      "id": "sonic-unleashed-recompiled",
+      "id": "sonic-unleashed-recompiled-integrado",
       "name": "Sonic Unleashed Recompiled",
-      "description": "Port não oficial de Sonic Unleashed para Android, mantido por SansNope e colaboradores. Esta entrada baixa somente o instalador oficial do projeto. Depois de instalar, abra o aplicativo e use Arquivos do jogo → Instalar jogo / DLC (.zip / pasta), ou a opção de ISO / atualização / DLC. Os arquivos da sua própria cópia de Xbox 360 são necessários e não acompanham o APK. ARM64, Android 10 ou superior; a compatibilidade gráfica varia por aparelho. O projeto ainda é experimental.",
-      "developer": "SansNope e colaboradores / Unleashed Recompiled",
+      "cover": {
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/6a69bdc0d5142265d72208990d8d3062b0360bb62f49b36bd8d124d20377f1d8.png",
+        "name": "sonic-unleashed.png",
+        "size": 577841,
+        "sha256": "6a69bdc0d5142265d72208990d8d3062b0360bb62f49b36bd8d124d20377f1d8"
+      },
+      "files": [
+        {
+          "url": "https://archive.org/download/sonic-unleashed-recompiled_202603/Sonic%20Unleashed%20Recompiled.7z",
+          "name": "Sonic-Unleashed-Recompiled.7z",
+          "size": 9050634214,
+          "sha256": ""
+        }
+      ],
+      "banner": {
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10.jpg",
+        "name": "sonic-unleashed-banner.jpg",
+        "size": 233721,
+        "sha256": "18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10"
+      },
+      "license": "GPL-3.0 (port); jogo original não incluído",
       "version": "0.6.1",
       "category": "RECOMP",
-      "license": "GPL-3.0 (port); jogo original não incluído",
+      "developer": "SansNope e colaboradores / Unleashed Recompiled",
+      "runtimeId": "sonic-unleashed-android",
       "sourceUrl": "https://github.com/SansNope/UnleashedRecomp-Android/releases/tag/v0.6.1",
-      "runtimeId": "external-android",
-      "architecture": "arm64-v8a",
-      "minAndroid": 29,
-      "files": [],
-      "apk": {
-        "name": "UnleashedRecomp_0.6.1.apk",
-        "url": "https://github.com/SansNope/UnleashedRecomp-Android/releases/download/v0.6.1/UnleashedRecomp_0.6.1.apk",
-        "sha256": "05717f167db907ca0d0f8e45112613c7e24ef0737ecdc5e192a430a047f74c34",
-        "size": 70169911
+      "titleLogo": {
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/ac48c7941e2da5e5e0a45e6e85aa9ad370f4801ba7d485098082491e6569c54c.webp",
+        "name": "sonic-unleashed-logo.webp",
+        "size": 34588,
+        "sha256": "ac48c7941e2da5e5e0a45e6e85aa9ad370f4801ba7d485098082491e6569c54c"
       },
-      "androidPackage": "com.sega.sonicunr"
+      "minAndroid": 29,
+      "description": "Aventura de dia e de noite. Recompilação para Android com controles por toque ou gamepad.",
+      "architecture": "arm64-v8a",
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/lgXxz4C-Kuo"
+      }
+    },
+    {
+      "id": "lego-marvel-super-heroes-integrado",
+      "name": "LEGO Marvel Super Heroes",
+      "cover": {
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/0c56ed9e445b18fdaae4b9c0ea3bda6c9fd58d565074fa74e8ce7878068a6ac9.png",
+        "name": "lego-marvel-icon.png",
+        "size": 69708,
+        "sha256": "0c56ed9e445b18fdaae4b9c0ea3bda6c9fd58d565074fa74e8ce7878068a6ac9"
+      },
+      "files": [
+        {
+          "url": "https://dl.apkvision.net/lego-marvel-super-heroes-pc-port/LEGO-Marvel-Super-Heroes-apkvision.zip",
+          "name": "LEGO-Marvel-Super-Heroes.zip",
+          "size": 6146134774,
+          "sha256": "90dee5a13c915e23b5626f43194a82a9067a1f0c078951d5b23d7f2623aa7d9b"
+        }
+      ],
+      "banner": {
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee.jpg",
+        "name": "lego-marvel-banner.jpg",
+        "size": 418676,
+        "sha256": "ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee"
+      },
+      "license": "Port não oficial; jogo e artes pertencem aos respectivos titulares.",
+      "version": "1.0.0",
+      "category": "PORT",
+      "developer": "Traveller's Tales · port ttom795",
+      "runtimeId": "lego-marvel-android",
+      "sourceUrl": "https://github.com/ttom795/LMS_Android",
+      "titleLogo": {
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/3f9949ae161ffa7b3e55fc4983b13bd8f52d632b3b000db3699ac3e3c8b5bbb1.png",
+        "name": "lego-marvel-logo.png",
+        "size": 83916,
+        "sha256": "3f9949ae161ffa7b3e55fc4983b13bd8f52d632b3b000db3699ac3e3c8b5bbb1"
+      },
+      "minAndroid": 28,
+      "description": "Reúna os heróis da Marvel em uma aventura LEGO por Manhattan. Port nativo para Android ARM64, com controles por toque ou gamepad. O byteOS prepara o motor e os dados em uma única instalação.",
+      "architecture": "arm64-v8a",
+      "runtimeRelease": {
+        "payload": "{\"version\":\"0.3.4\",\"archive\":{\"name\":\"LegoMarvel-0.3.4.apk\",\"url\":\"https://github.com/ttom795/LMS_Android/releases/download/0.3.4/LegoMarvel-0.3.4.apk\",\"sha256\":\"ded220813bc400765a7fd8ac8c941c64acdc33e03aea1fe07abeb27eafc5aad8\",\"size\":49690390},\"components\":[{\"name\":\"libc++_shared.so\",\"size\":1374336,\"sha256\":\"c4c2fe5cbcb1fba0003a31fc7ab29a9bb12df6cc187ec45a806462540e83d93b\"},{\"name\":\"libSDL2.so\",\"size\":1237360,\"sha256\":\"0a374c72612cc97b1dcc906b15d67121f0d144d55e00607d94d28e5802e7b838\"},{\"name\":\"libdxvk_d3d9.so\",\"size\":2057720,\"sha256\":\"bac1453e8de837b5a5d0e36232ddfc6346902488fba93047081aafd39305eccb\"},{\"name\":\"libmain.so\",\"size\":130090032,\"sha256\":\"4f70ad0662a7b3139a761d9de851e230de8f34917dd176cc85ba07fe16ae88f0\"}],\"bridge\":1}",
+        "signature": "NB923659l1jQLOT1CpTUwsVCyqZtcYRDqWoaJGSEh4BYd1r7aLG9w/113MiW64ihVpaM5nq0DfxqZNiuCdKEYsN//NKga3b9N6AcX6t2zogwVpX42iuUHk3uIquiT4XrcYKMUGdL1glH7NoBVc9OiMkuxVIQmHBgN1E3Caavc9ytBal3sPrEc7Rcsf4HOqKMyegeErh5/01IeHDNlzXUmzKo5nXOHL8t8KEtPFiniEpgeyAuE3ddaOBvCSEQ4wU17abAUx9L8pA7b+r3WcMwX2oxQdQgbGfHacHtzbjsNv/BAfSBJnvnu1UtxE+zlrk7zm+TU18wspj+1p8xNswjYte1TBgG8j5oDNhPIszioDXbWEwg7oXa1UT2ANCdBgRPXjy+1u3uMPzW0D6yYUBokVkPc0es8Yd17GG4VnRG1mkJIZIpnEBXMkf8Scr9eXz2T1uca2zlKrpMXrTUbqpRwhjefK+VeEOI5Knf5QrQVQIPbuiISP7QbN7qR7WnpE98"
+      },
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/ydXUZbrg1nc"
+      }
+    },
+    {
+      "id": "super-mario-world-remastered-plus",
+      "name": "Super Mario World Remastered+",
+      "description": "Volte à Terra dos Dinossauros em uma recriação de Super Mario World feita em Godot. Mario e Luigi encontram Yoshi e percorrem planícies, cavernas, florestas e castelos para enfrentar Bowser e resgatar a princesa Peach. Descubra saídas secretas, encontre caminhos alternativos no mapa e use a capa e as habilidades de Yoshi para explorar as fases.\n\nA edição Remastered+ acrescenta ajustes de conforto, opções para nadar e escalar mais rápido, avanços no ritmo do mapa e a possibilidade de pular cenas. Mantém configurações próprias dentro do jogo e suporte a controles físicos. O byteOS baixa e organiza os componentes em uma instalação, com progresso separado do motor.",
+      "developer": "Nintendo · recriação JoeMama · Remastered+ BTFighter · Android grekzorna",
+      "version": "1.1.0",
+      "category": "PORT",
+      "license": "Projeto de fãs não oficial. Código e recursos mantêm as licenças dos autores; Super Mario e o jogo original pertencem à Nintendo.",
+      "sourceUrl": "https://github.com/BTFighter/Super-Mario-World-Remastered-Plus",
+      "runtimeId": "smw-godot-4.4",
+      "architecture": "arm64-v8a",
+      "minAndroid": 26,
+      "files": [
+        {
+          "name": "SMW-original.zip",
+          "url": "https://raw.githubusercontent.com/JacksonUptain/RecalBox-Download-ROM-Pre-Loaded/main/Super%20Mario%20World%20%28USA%29.zip",
+          "sha256": "dba475214ad94c9b8afd963835a7a5c709f03e28e148bd53d06519e8018d52c3",
+          "size": 345695
+        }
+      ],
+      "cover": {
+        "name": "smw-cover.jpg",
+        "url": "https://www.nintendo.com/en-gb/games/oms/snes-classic/images/games/super-mario-world/box-art.jpg",
+        "sha256": "23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27",
+        "size": 123708
+      },
+      "banner": {
+        "name": "smw-banner.png",
+        "url": "https://jhdev2006.github.io/assets/images/SMWR-1.png",
+        "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
+        "size": 504931
+      },
+      "titleLogo": {
+        "name": "smw-logo.png",
+        "url": "https://raw.githubusercontent.com/BTFighter/Super-Mario-World-Remastered-Plus/main/Assets/Sprites/UI/Logo.png",
+        "sha256": "aaca1ba96a82e09d2ba67a3bbc367f89e2f90538f85b06c426481cde5288c186",
+        "size": 3868
+      },
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/RJ1w-venSAE"
+      },
+      "screenshots": [
+        {
+          "name": "smw-banner.png",
+          "url": "https://jhdev2006.github.io/assets/images/SMWR-1.png",
+          "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
+          "size": 504931
+        }
+      ]
+    },
+    {
+      "id": "donkey-kong-country-native",
+      "name": "Donkey Kong Country",
+      "description": "Donkey Kong e Diddy Kong partem em busca das bananas roubadas pelos Kremlings. Cruze selvas, cavernas, ruínas, montanhas e fábricas, enfrente chefes e encontre salas de bônus escondidas pelo caminho. Barris, carrinhos de mina e companheiros animais mudam o ritmo da aventura, com a dupla alternando suas habilidades para superar os obstáculos.\n\nEste é o primeiro Donkey Kong Country de Super Nintendo, em uma recompilação nativa para Android baseada no DKC1Recomp. O port oferece apresentação widescreen, som e saves, com navegação por controle físico e botões por toque. O byteOS prepara os arquivos e o motor e mantém o progresso separado para permitir reparos sem apagá-lo.",
+      "developer": "Rare / Nintendo · DKC1Recomp elliotttate · Android MadladWithABoxHat",
+      "version": "1.0.0",
+      "category": "RECOMP",
+      "license": "Port não oficial. Frontend do projeto sob MIT; snesrecomp e dependências mantêm seus termos próprios. Donkey Kong e o jogo original pertencem à Nintendo / Rare.",
+      "sourceUrl": "https://github.com/MadladWithABoxHat/DKC1RecompAndroid",
+      "runtimeId": "dkc1-native-android",
+      "architecture": "arm64-v8a",
+      "minAndroid": 26,
+      "files": [
+        {
+          "name": "DKC-original.bin",
+          "url": "https://raw.githubusercontent.com/LGgameLAB/GameLAB/master/Game%20sites/Snes/Snes%20roms/Donkey%20Kong%20Country%20%28U%29%20%28V1.0%29%20%5B%21%5D.smc",
+          "sha256": "fa8cacf5bbfc39ee6bbaa557adf89133d60d42f6cf9e1db30d5a36a469f74d15",
+          "size": 4194304
+        }
+      ],
+      "cover": {
+        "name": "dkc-cover.jpg",
+        "url": "https://www.nintendo.com/en-gb/games/oms/snes-classic/images/games/dk-country/box-art.jpg",
+        "sha256": "65b6619dde11bf8d1c0cbfc26dd1fbf3be79122365380780696085d3b190a35d",
+        "size": 182420
+      },
+      "banner": {
+        "name": "dkc-cover.jpg",
+        "url": "https://www.nintendo.com/en-gb/games/oms/snes-classic/images/games/dk-country/box-art.jpg",
+        "sha256": "65b6619dde11bf8d1c0cbfc26dd1fbf3be79122365380780696085d3b190a35d",
+        "size": 182420
+      },
+      "video": {
+        "title": "Vídeo do jogo original — Nintendo",
+        "url": "https://www.youtube.com/watch?v=qnf_XIZiNlQ",
+        "poster": {
+          "name": "dkc-video.jpg",
+          "url": "https://i.ytimg.com/vi/qnf_XIZiNlQ/hqdefault.jpg",
+          "sha256": "05fbafee1a623ea1fba8eb5df8b02fb1022a041b621686e880b8f44dc99c10de",
+          "size": 38071
+        }
+      },
+      "screenshots": [],
+      "titleLogo": {
+        "name": "dkc-logo.png",
+        "url": "https://www.mariowiki.com/images/4/41/DKCLogo.png",
+        "sha256": "595418dab18c7b497b925eaadfb8387f5ac1e57d51016b8107376bd3c1122f7c",
+        "size": 924051
+      }
+    },
+    {
+      "id": "scott-pilgrim-ex",
+      "name": "Scott Pilgrim EX",
+      "description": "Scott Pilgrim e seus amigos encaram uma nova aventura de luta e exploração por Toronto. Enfrente gangues e inimigos, combine golpes, encontre itens e desenvolva os personagens em cenários de pixel art. Esta versão Android inclui os dados do jogo no próprio pacote.",
+      "developer": "Tribute Games · adaptação Android distribuída por APKVision",
+      "version": "1.1",
+      "category": "PORT",
+      "license": "Scott Pilgrim EX — créditos de desenvolvimento: Tribute Games. Scott Pilgrim: Bryan Lee O’Malley e respectivos titulares. Adaptação Android: créditos mantidos no pacote original.",
+      "sourceUrl": "https://apkvision.org/games/action/scott-pilgrim-ex-134839/",
+      "runtimeId": "scott-fna-android",
+      "architecture": "arm64-v8a",
+      "minAndroid": 28,
+      "files": [
+        {
+          "name": "scott-pilgrim-ex.data",
+          "url": "https://dl.apkvision.org/scott-pilgrim-ex/Scott-Pilgrim-EX-v1.1-full-apkvision.apk",
+          "sha256": "425b82e7d127500ef3822f88bd2cbc0af0d7821f786c7e05dd1c7e0a61af37aa",
+          "size": 839362068
+        }
+      ],
+      "cover": {
+        "name": "scott-pilgrim-ex-cover.jpg",
+        "url": "https://apkvision.org/wp-content/uploads/2026/10/scott_pilgrim_ex-square.jpg",
+        "sha256": "249bd96acc501ea02c9d494bc1dde7c127697061fe0bc6d1e5e819e4d58d97d7",
+        "size": 115439
+      },
+      "banner": {
+        "name": "scott-pilgrim-ex-banner.jpg",
+        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2640950/library_hero.jpg",
+        "sha256": "860c33852240f5d5b8e91900287dc3a06523c85713d2bfbe65f9f793b6c2a457",
+        "size": 450442
+      },
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/H8MOiJ74g2o"
+      }
+    },
+    {
+      "id": "super-mario-world-original",
+      "name": "Super Mario World",
+      "description": "A edição original de Super Mario World com motor nativo em C. Requer byteOS 1.12.7 ou posterior para executar. Instalação e saves independentes da edição Remastered+.",
+      "developer": "snesrev · Android freyta",
+      "version": "1.0.2",
+      "category": "PORT",
+      "license": "Projeto de fãs não oficial. Código e recursos mantêm as licenças dos autores; Super Mario e o jogo original pertencem à Nintendo.",
+      "sourceUrl": "https://github.com/freyta/smw-android",
+      "runtimeId": "smw-native-original",
+      "architecture": "arm64-v8a",
+      "minAndroid": 26,
+      "files": [
+        {
+          "name": "SMW-original.zip",
+          "url": "https://raw.githubusercontent.com/JacksonUptain/RecalBox-Download-ROM-Pre-Loaded/main/Super%20Mario%20World%20%28USA%29.zip",
+          "sha256": "dba475214ad94c9b8afd963835a7a5c709f03e28e148bd53d06519e8018d52c3",
+          "size": 345695
+        }
+      ],
+      "cover": {
+        "name": "smw-cover.jpg",
+        "url": "https://www.nintendo.com/en-gb/games/oms/snes-classic/images/games/super-mario-world/box-art.jpg",
+        "sha256": "23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27",
+        "size": 123708
+      },
+      "banner": {
+        "name": "smw-banner.png",
+        "url": "https://jhdev2006.github.io/assets/images/SMWR-1.png",
+        "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
+        "size": 504931
+      },
+      "titleLogo": {
+        "name": "smw-logo.png",
+        "url": "https://raw.githubusercontent.com/BTFighter/Super-Mario-World-Remastered-Plus/main/Assets/Sprites/UI/Logo.png",
+        "sha256": "aaca1ba96a82e09d2ba67a3bbc367f89e2f90538f85b06c426481cde5288c186",
+        "size": 3868
+      },
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/RJ1w-venSAE"
+      },
+      "screenshots": [
+        {
+          "name": "smw-banner.png",
+          "url": "https://jhdev2006.github.io/assets/images/SMWR-1.png",
+          "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
+          "size": 504931
+        }
+      ]
     }
-  ]
+  ],
+  "schemaVersion": 1
 }

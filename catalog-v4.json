@@ -40,14 +40,8 @@
       "description": "Aventura de dia e de noite. Recompilação para Android com controles por toque ou gamepad.",
       "architecture": "arm64-v8a",
       "video": {
-        "title": "Sonic Unleashed · trailer de lançamento",
-        "url": "https://www.youtube.com/watch?v=lgXxz4C-Kuo",
-        "poster": {
-          "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-unleashed-recompiled-integrado/18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10.jpg",
-          "name": "sonic-unleashed-banner.jpg",
-          "size": 233721,
-          "sha256": "18e624ae92614ae9ca048883705fed9759dae5810abdfb3ee2dea0fe80a58d10"
-        }
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/lgXxz4C-Kuo"
       }
     },
     {
@@ -93,14 +87,8 @@
         "signature": "NB923659l1jQLOT1CpTUwsVCyqZtcYRDqWoaJGSEh4BYd1r7aLG9w/113MiW64ihVpaM5nq0DfxqZNiuCdKEYsN//NKga3b9N6AcX6t2zogwVpX42iuUHk3uIquiT4XrcYKMUGdL1glH7NoBVc9OiMkuxVIQmHBgN1E3Caavc9ytBal3sPrEc7Rcsf4HOqKMyegeErh5/01IeHDNlzXUmzKo5nXOHL8t8KEtPFiniEpgeyAuE3ddaOBvCSEQ4wU17abAUx9L8pA7b+r3WcMwX2oxQdQgbGfHacHtzbjsNv/BAfSBJnvnu1UtxE+zlrk7zm+TU18wspj+1p8xNswjYte1TBgG8j5oDNhPIszioDXbWEwg7oXa1UT2ANCdBgRPXjy+1u3uMPzW0D6yYUBokVkPc0es8Yd17GG4VnRG1mkJIZIpnEBXMkf8Scr9eXz2T1uca2zlKrpMXrTUbqpRwhjefK+VeEOI5Knf5QrQVQIPbuiISP7QbN7qR7WnpE98"
       },
       "video": {
-        "title": "LEGO Marvel Super Heroes · trailer de lançamento",
-        "url": "https://www.youtube.com/watch?v=ydXUZbrg1nc",
-        "poster": {
-          "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/lego-marvel-super-heroes-integrado/ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee.jpg",
-          "name": "lego-marvel-banner.jpg",
-          "size": 418676,
-          "sha256": "ff2aab4b82a8c793b816c594c602df6e903ffb96ff6bebc06e66a41b042d6bee"
-        }
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/ydXUZbrg1nc"
       }
     },
     {
@@ -142,14 +130,8 @@
         "size": 3868
       },
       "video": {
-        "title": "Ver gameplay — VICODER",
-        "url": "https://www.youtube.com/watch?v=zSMlCfvGElU",
-        "poster": {
-          "name": "smw-video.jpg",
-          "url": "https://i.ytimg.com/vi/zSMlCfvGElU/hqdefault.jpg",
-          "sha256": "6bf1ac62934dd467a901f0ff921604eb8df4ce0e55396bf80e753b08229fd7fe",
-          "size": 42273
-        }
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/RJ1w-venSAE"
       },
       "screenshots": [
         {
@@ -209,8 +191,95 @@
         "sha256": "595418dab18c7b497b925eaadfb8387f5ac1e57d51016b8107376bd3c1122f7c",
         "size": 924051
       }
+    },
+    {
+      "id": "scott-pilgrim-ex",
+      "name": "Scott Pilgrim EX",
+      "description": "Scott Pilgrim e seus amigos encaram uma nova aventura de luta e exploração por Toronto. Enfrente gangues e inimigos, combine golpes, encontre itens e desenvolva os personagens em cenários de pixel art. Esta versão Android inclui os dados do jogo no próprio pacote.",
+      "developer": "Tribute Games · adaptação Android distribuída por APKVision",
+      "version": "1.1",
+      "category": "PORT",
+      "license": "Scott Pilgrim EX — créditos de desenvolvimento: Tribute Games. Scott Pilgrim: Bryan Lee O’Malley e respectivos titulares. Adaptação Android: créditos mantidos no pacote original.",
+      "sourceUrl": "https://apkvision.org/games/action/scott-pilgrim-ex-134839/",
+      "runtimeId": "scott-fna-android",
+      "architecture": "arm64-v8a",
+      "minAndroid": 28,
+      "files": [
+        {
+          "name": "scott-pilgrim-ex.data",
+          "url": "https://dl.apkvision.org/scott-pilgrim-ex/Scott-Pilgrim-EX-v1.1-full-apkvision.apk",
+          "sha256": "425b82e7d127500ef3822f88bd2cbc0af0d7821f786c7e05dd1c7e0a61af37aa",
+          "size": 839362068
+        }
+      ],
+      "cover": {
+        "name": "scott-pilgrim-ex-cover.jpg",
+        "url": "https://apkvision.org/wp-content/uploads/2026/10/scott_pilgrim_ex-square.jpg",
+        "sha256": "249bd96acc501ea02c9d494bc1dde7c127697061fe0bc6d1e5e819e4d58d97d7",
+        "size": 115439
+      },
+      "banner": {
+        "name": "scott-pilgrim-ex-banner.jpg",
+        "url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2640950/library_hero.jpg",
+        "sha256": "860c33852240f5d5b8e91900287dc3a06523c85713d2bfbe65f9f793b6c2a457",
+        "size": 450442
+      },
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/H8MOiJ74g2o"
+      }
+    },
+    {
+      "id": "super-mario-world-original",
+      "name": "Super Mario World",
+      "description": "A edição original de Super Mario World com motor nativo em C. Requer byteOS 1.12.7 ou posterior para executar. Instalação e saves independentes da edição Remastered+.",
+      "developer": "snesrev · Android freyta",
+      "version": "1.0.2",
+      "category": "PORT",
+      "license": "Projeto de fãs não oficial. Código e recursos mantêm as licenças dos autores; Super Mario e o jogo original pertencem à Nintendo.",
+      "sourceUrl": "https://github.com/freyta/smw-android",
+      "runtimeId": "smw-native-original",
+      "architecture": "arm64-v8a",
+      "minAndroid": 26,
+      "files": [
+        {
+          "name": "SMW-original.zip",
+          "url": "https://raw.githubusercontent.com/JacksonUptain/RecalBox-Download-ROM-Pre-Loaded/main/Super%20Mario%20World%20%28USA%29.zip",
+          "sha256": "dba475214ad94c9b8afd963835a7a5c709f03e28e148bd53d06519e8018d52c3",
+          "size": 345695
+        }
+      ],
+      "cover": {
+        "name": "smw-cover.jpg",
+        "url": "https://www.nintendo.com/en-gb/games/oms/snes-classic/images/games/super-mario-world/box-art.jpg",
+        "sha256": "23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27",
+        "size": 123708
+      },
+      "banner": {
+        "name": "smw-banner.png",
+        "url": "https://jhdev2006.github.io/assets/images/SMWR-1.png",
+        "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
+        "size": 504931
+      },
+      "titleLogo": {
+        "name": "smw-logo.png",
+        "url": "https://raw.githubusercontent.com/BTFighter/Super-Mario-World-Remastered-Plus/main/Assets/Sprites/UI/Logo.png",
+        "sha256": "aaca1ba96a82e09d2ba67a3bbc367f89e2f90538f85b06c426481cde5288c186",
+        "size": 3868
+      },
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/RJ1w-venSAE"
+      },
+      "screenshots": [
+        {
+          "name": "smw-banner.png",
+          "url": "https://jhdev2006.github.io/assets/images/SMWR-1.png",
+          "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65",
+          "size": 504931
+        }
+      ]
     }
   ],
   "schemaVersion": 1
 }
-

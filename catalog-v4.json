@@ -186,10 +186,10 @@
         "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/donkey-kong-country-native/65b6619dde11bf8d1c0cbfc26dd1fbf3be79122365380780696085d3b190a35d.jpg"
       },
       "banner": {
-        "name": "dkc-banner.png",
-        "size": 42279,
-        "sha256": "c142bafe28c0ee7d870ddfa983024ebcc96d80b7e3302a86d6cb42c2079e54ca",
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/donkey-kong-country-native/c142bafe28c0ee7d870ddfa983024ebcc96d80b7e3302a86d6cb42c2079e54ca.png"
+        "sha256": "9ebcdc91b3f6aabd1ed6b5d5aa5047a57cb2cde9d8bbe754893aa9241aa199b7",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/donkey-kong-country-native/9ebcdc91b3f6aabd1ed6b5d5aa5047a57cb2cde9d8bbe754893aa9241aa199b7.jpg",
+        "name": "official-dkc.jpg",
+        "size": 68975
       }
     },
     {
@@ -316,17 +316,17 @@
         "sha256": "c6de99137340869eaa86200ab8209b161c2daad6a7bdd0241d585a3603df22ce",
         "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/c6de99137340869eaa86200ab8209b161c2daad6a7bdd0241d585a3603df22ce.png"
       },
-      "banner": {
-        "name": "mk64-banner.png",
-        "size": 49541,
-        "sha256": "66f9d383b98f92c06b9963a081b23f7efd6d977c4aff17dad295ee04711eba35",
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/66f9d383b98f92c06b9963a081b23f7efd6d977c4aff17dad295ee04711eba35.png"
-      },
       "titleLogo": {
         "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/cd11a17e66561cd26b85b182780b9479a433ece1207903077a583e924ec22cf3.png",
         "name": "mk64-transparent-ai.png",
         "size": 1024167,
         "sha256": "cd11a17e66561cd26b85b182780b9479a433ece1207903077a583e924ec22cf3"
+      },
+      "banner": {
+        "sha256": "3dda865281ff5026196fc1b424c8dfd1cc6169bf60b8d5be6419b2d65ee9051e",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/3dda865281ff5026196fc1b424c8dfd1cc6169bf60b8d5be6419b2d65ee9051e.jpg",
+        "name": "official-mk64.jpg",
+        "size": 125864
       }
     },
     {

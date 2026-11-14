@@ -371,6 +371,49 @@
         "sha256": "2fcde800ac8d3d1165415b2425015138b52977644ff4bbe936c03ca2047e1794",
         "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-64-native/2fcde800ac8d3d1165415b2425015138b52977644ff4bbe936c03ca2047e1794.png"
       }
+    },
+    {
+      "id": "sonic-the-hedgehog-classic",
+      "name": "Sonic the Hedgehog Classic",
+      "description": "A versão móvel de 2013 de Sonic the Hedgehog. O byteOS prepara os dados e o motor RSDKv4 internamente, com controles por toque e saves próprios. Requer byteOS 1.12.14 ou posterior; integração verificada em emulador Android com tradução ARM.",
+      "developer": "SEGA / Christian Whitehead · decompilação Rubberduckycooly e st×tic",
+      "version": "1.3.3",
+      "category": "PORT",
+      "license": "RSDKv4 Decompilation Source Code License v2, uso não comercial; dados e marcas de Sonic pertencem à SEGA.",
+      "sourceUrl": "https://github.com/RSDKModding/RSDKv4-Decompilation",
+      "runtimeId": "rsdk4-android",
+      "architecture": "arm64-v8a",
+      "minAndroid": 26,
+      "files": [
+        {
+          "name": "sonic-classic-dados-3.3.0.zip",
+          "url": "https://dl.freesoftru.net/apps/48/477/47696/com.sega.sonic1px_3.3.0.apk",
+          "sha256": "4b4d0cdeeb6964cf75688da8663dff32d595e1aa906f6b48464c7a5fab186939",
+          "size": 59863453
+        }
+      ],
+      "video": {
+        "title": "Assistir trailer",
+        "url": "https://youtu.be/Stqo8KmTz2A"
+      },
+      "banner": {
+        "name": "trailer-banner.jpg",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-the-hedgehog-classic/c6b743fe9acfc91b5e7d2b619b983616b89b5b9021d8d6cc03c6aca226957f09.jpg",
+        "size": 102856,
+        "sha256": "c6b743fe9acfc91b5e7d2b619b983616b89b5b9021d8d6cc03c6aca226957f09"
+      },
+      "titleLogo": {
+        "name": "sonic-logo-correct.png",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-the-hedgehog-classic/b00cfaabd62b77b15138da8634b8e0708d4e076b6cf2d81bfc60b2c67bcafdda.png",
+        "size": 770869,
+        "sha256": "b00cfaabd62b77b15138da8634b8e0708d4e076b6cf2d81bfc60b2c67bcafdda"
+      },
+      "cover": {
+        "name": "cover.png",
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/sonic-the-hedgehog-classic/0406723cbd27c3e97100742e666cafe9027406bd5097ed6ea46005323938fa97.png",
+        "size": 949131,
+        "sha256": "0406723cbd27c3e97100742e666cafe9027406bd5097ed6ea46005323938fa97"
+      }
     }
   ],
   "schemaVersion": 1

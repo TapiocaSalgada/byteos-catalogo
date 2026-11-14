@@ -124,22 +124,22 @@
         }
       ],
       "titleLogo": {
-        "name": "smw-logo.png",
-        "size": 205593,
-        "sha256": "c7208e94710495c780e139f954dd1cabe0d6ee437519584a641fc92905219d89",
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-remastered-plus/c7208e94710495c780e139f954dd1cabe0d6ee437519584a641fc92905219d89.png"
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-remastered-plus/aaca1ba96a82e09d2ba67a3bbc367f89e2f90538f85b06c426481cde5288c186.png",
+        "name": "smw-remastered-project-logo.png",
+        "size": 3868,
+        "sha256": "aaca1ba96a82e09d2ba67a3bbc367f89e2f90538f85b06c426481cde5288c186"
       },
       "cover": {
-        "name": "super-mario-world-remastered-plus-cover.jpg",
-        "size": 123708,
-        "sha256": "23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27",
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-remastered-plus/23d6191645a8b53ba16614e8c1cbf3bb9b5fac63be1d7300d30dfbd936a8bd27.jpg"
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-remastered-plus/bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65.png",
+        "name": "smw-remastered-screen.png",
+        "size": 504931,
+        "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65"
       },
       "banner": {
-        "name": "smw-banner.png",
-        "size": 3419,
-        "sha256": "9b73cf1865e66f62fc7b1845bf595dca25871b8e3032496e37d02667a4eff94e",
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-remastered-plus/9b73cf1865e66f62fc7b1845bf595dca25871b8e3032496e37d02667a4eff94e.png"
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-remastered-plus/bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65.png",
+        "name": "smw-remastered-screen.png",
+        "size": 504931,
+        "sha256": "bc4067f365816477cc91b68309464041375690ea1e1e8ae36bc08707e58dab65"
       }
     },
     {
@@ -267,12 +267,6 @@
           "size": 504931
         }
       ],
-      "titleLogo": {
-        "name": "smw-logo.png",
-        "size": 205593,
-        "sha256": "c7208e94710495c780e139f954dd1cabe0d6ee437519584a641fc92905219d89",
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-original/c7208e94710495c780e139f954dd1cabe0d6ee437519584a641fc92905219d89.png"
-      },
       "cover": {
         "name": "super-mario-world-original-cover.jpg",
         "size": 123708,
@@ -284,6 +278,12 @@
         "size": 3419,
         "sha256": "9b73cf1865e66f62fc7b1845bf595dca25871b8e3032496e37d02667a4eff94e",
         "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-original/9b73cf1865e66f62fc7b1845bf595dca25871b8e3032496e37d02667a4eff94e.png"
+      },
+      "titleLogo": {
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/super-mario-world-original/675df47da35653dee68c602fc4d8ce4d69cecd51c4ab3c89e8ee9a202c766f57.png",
+        "name": "smw-transparent-ai.png",
+        "size": 817826,
+        "sha256": "675df47da35653dee68c602fc4d8ce4d69cecd51c4ab3c89e8ee9a202c766f57"
       }
     },
     {
@@ -310,12 +310,6 @@
         "title": "Assistir trailer",
         "url": "https://youtu.be/vi-Sd6Cp1EI"
       },
-      "titleLogo": {
-        "name": "mk64-logo.jpg",
-        "size": 21506,
-        "sha256": "b3dae174c6b28a7ee376fcaafa891e8e893459c72dcb5a1c31f95c3cc6825515",
-        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/b3dae174c6b28a7ee376fcaafa891e8e893459c72dcb5a1c31f95c3cc6825515.jpg"
-      },
       "cover": {
         "name": "mario-kart-64-native-cover.png",
         "size": 313299,
@@ -327,6 +321,12 @@
         "size": 49541,
         "sha256": "66f9d383b98f92c06b9963a081b23f7efd6d977c4aff17dad295ee04711eba35",
         "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/66f9d383b98f92c06b9963a081b23f7efd6d977c4aff17dad295ee04711eba35.png"
+      },
+      "titleLogo": {
+        "url": "https://vnszjrvetjdiwzzypsjy.supabase.co/storage/v1/object/public/byteos-art/games/mario-kart-64-native/cd11a17e66561cd26b85b182780b9479a433ece1207903077a583e924ec22cf3.png",
+        "name": "mk64-transparent-ai.png",
+        "size": 1024167,
+        "sha256": "cd11a17e66561cd26b85b182780b9479a433ece1207903077a583e924ec22cf3"
       }
     },
     {
